@@ -1,5 +1,2 @@
 blue
-red
-yellow
-purple
 
